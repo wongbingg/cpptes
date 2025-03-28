@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     
     Case1 c1;
-    c1.excute();
+    c1.execute();
     
     return 0;
 }
